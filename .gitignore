@@ -1,0 +1,12 @@
+pesos/*
+!pesos/.gitkeep 
+
+modelos/*
+!modelos/.gitkeep 
+
+classificadores/*
+!classificadores/.gitkeep 
+
+.ipynb_checkpoints
+
+.DS_Store
